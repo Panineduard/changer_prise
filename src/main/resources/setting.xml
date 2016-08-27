@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<setting>
+    <priseButton>Загрузить прайс</priseButton>
+    <getFile>Выбрать фыйл</getFile>
+    <load>Загрузить</load>
+    <dealer>Имя диллера</dealer>
+    <partNumberRow>Номер запчасти</partNumberRow>
+    <partCountRow>Количество</partCountRow>
+    <partPriseRow>Цена</partPriseRow>
+</setting>

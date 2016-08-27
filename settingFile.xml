@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dealers>
+    <dealer>
+        <name>3</name>
+        <partNumberRow>2</partNumberRow>
+        <partCountRow>2</partCountRow>
+        <partPriseRow>2</partPriseRow>
+        <partNameRow>2</partNameRow>
+        <prisePath>D:\Java\Java projects\changer_prise\userFolder\3.xls</prisePath>
+        <date>2016-08-24</date>
+    </dealer>
+    <dealer>
+        <name>2</name>
+        <partNumberRow>0</partNumberRow>
+        <partCountRow>2</partCountRow>
+        <partPriseRow>3</partPriseRow>
+        <partNameRow>1</partNameRow>
+        <prisePath>D:\Java\Java projects\changer_prise\userFolder\2.xls</prisePath>
+        <date>2016-08-24</date>
+    </dealer>
+</dealers>
