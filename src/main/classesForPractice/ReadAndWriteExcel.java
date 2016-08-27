@@ -30,14 +30,12 @@ public class ReadAndWriteExcel {
         dateStyle.setDataFormat(format.getFormat("dd.mm.yyyy"));
         birthdate.setCellStyle(dateStyle);
 
-
-        // Нумерация лет начинается с 1900-го
         birthdate.setCellValue(new Date(110, 10, 10));
 
-        // Меняем размер столбца
+
         sheet.autoSizeColumn(1);
 
-        // Записываем всё в файл
+
         workbook.write(new FileOutputStream(new File(file)));
         workbook.close();
     }
